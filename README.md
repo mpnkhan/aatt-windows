@@ -12,6 +12,11 @@ $ npm i
 $ DEBUG=AATT* http_port=3000 node app.js
 ```
 
+or just
+```sh
+npm i aatt-windows
+```
+
 You can now access the running instance of AATT from http://localhost:3000
 To test the api do 
 http://localhost:3000/test/AATT_API.html
